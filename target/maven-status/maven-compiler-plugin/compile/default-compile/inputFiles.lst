@@ -1,8 +1,0 @@
-/home/rcicero/Documentos/trabalho/iasera/darede/empiricus/aws-serverless-java-container/samples/springboot/pet-store/src/main/java/com/amazonaws/serverless/sample/springboot/Application.java
-/home/rcicero/Documentos/trabalho/iasera/darede/empiricus/aws-serverless-java-container/samples/springboot/pet-store/src/main/java/com/amazonaws/serverless/sample/springboot/exception/TesteException.java
-/home/rcicero/Documentos/trabalho/iasera/darede/empiricus/aws-serverless-java-container/samples/springboot/pet-store/src/main/java/com/amazonaws/serverless/sample/springboot/controller/PetsController.java
-/home/rcicero/Documentos/trabalho/iasera/darede/empiricus/aws-serverless-java-container/samples/springboot/pet-store/src/main/java/com/amazonaws/serverless/sample/springboot/model/PetData.java
-/home/rcicero/Documentos/trabalho/iasera/darede/empiricus/aws-serverless-java-container/samples/springboot/pet-store/src/main/java/com/amazonaws/serverless/sample/springboot/model/Pet.java
-/home/rcicero/Documentos/trabalho/iasera/darede/empiricus/aws-serverless-java-container/samples/springboot/pet-store/src/main/java/com/amazonaws/serverless/sample/springboot/StreamLambdaHandler.java
-/home/rcicero/Documentos/trabalho/iasera/darede/empiricus/aws-serverless-java-container/samples/springboot/pet-store/src/main/java/com/amazonaws/serverless/sample/springboot/model/Error.java
-/home/rcicero/Documentos/trabalho/iasera/darede/empiricus/aws-serverless-java-container/samples/springboot/pet-store/src/main/java/com/amazonaws/serverless/sample/springboot/filter/CognitoIdentityFilter.java
